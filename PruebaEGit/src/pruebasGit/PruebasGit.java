@@ -5,6 +5,7 @@ public class PruebasGit {
 		System.out.println("Pruebas EGit");
 		System.out.println("Segundo commit master");
 		System.out.println("Tercer commit máster");
+		System.out.println("Primer commit rama 1");
 	}
 
 }
